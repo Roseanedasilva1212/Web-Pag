@@ -1,6 +1,5 @@
 
 
-https://github.com/Roseanedasilva1212/Web-Pag/assets/167696930/2d3e8d8a-2438-44ad-9b82-04ea1e924bdc
 
 # Loja de Calçados Rnvariedades
 
@@ -20,3 +19,4 @@ Bem-vindo ao repositório da Loja de Calçados XYZ, onde estilo e conforto se en
 
 ## Video do projeto
 
+https://github.com/Roseanedasilva1212/Web-Pag/assets/167696930/2d3e8d8a-2438-44ad-9b82-04ea1e924bdc
